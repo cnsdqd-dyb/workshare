@@ -2,8 +2,8 @@
 layout: post
 title: "🚀 Super Research: Answering Highly Complex Questions with Large Language Models"
 hide_title: false
-feature-img: thumbnails/superresearch-thumbnail.png
-thumbnail: thumbnails/superresearch-thumbnail.png
+feature-img: assets/img/thumbnails/superresearch-thumbnail.png
+thumbnail: assets/img/thumbnails/superresearch-thumbnail.png
 author: Yubo Dong
 tags: [SuperResearch, LLM, Agent, Graph Reasoning, Benchmark]
 ---
@@ -72,6 +72,7 @@ tags: [SuperResearch, LLM, Agent, Graph Reasoning, Benchmark]
 ---
 
 <h2 style="text-align:center;">Overview</h2>
+{% include aligner.html images="assets/img/feature-img/data_dist_01.png" column=1 %}
 
 While Large Language Models (LLMs) have demonstrated proficiency in Deep Research or Wide Search, their capacity to solve highly complex questions remains largely unexplored. We introduce **Super Research**, a task for complex autonomous research tasks that integrates:
 1. Structured decomposition into a research plan
@@ -90,9 +91,7 @@ Super Research employs a structured graph-based reasoning approach to handle hig
 * **Objectivity**
 * **Citation Health** (Dominance & Monopolization)
 
-<!-- <div align="center">
-    <img src="feature-img/superresearch-pipeline.png" alt="Super Research Pipeline" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-</div> -->
+
 {% include aligner.html images="assets/img/feature-img/superresearch-pipeline.png" column=1 %}
 <br>
 
@@ -118,6 +117,7 @@ Super Research employs a structured graph-based reasoning approach to handle hig
   </div>
 
 </div>
+
 
 
 
