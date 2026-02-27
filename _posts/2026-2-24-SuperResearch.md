@@ -2,8 +2,8 @@
 layout: post
 title: "🚀 Super Research: Answering Highly Complex Questions with Large Language Models"
 hide_title: false
-feature-img: assets/img/thumbnails/superresearch-thumbnail.png
-thumbnail: assets/img/thumbnails/superresearch-thumbnail.png
+feature-img: thumbnails/superresearch-thumbnail.png
+thumbnail: thumbnails/superresearch-thumbnail.png
 author: Yubo Dong
 tags: [SuperResearch, LLM, Agent, Graph Reasoning, Benchmark]
 ---
@@ -90,9 +90,10 @@ Super Research employs a structured graph-based reasoning approach to handle hig
 * **Objectivity**
 * **Citation Health** (Dominance & Monopolization)
 
-<div align="center">
-    <img src="assets/img/feature-img/superresearch-pipeline.png" alt="Super Research Pipeline" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-</div>
+<!-- <div align="center">
+    <img src="feature-img/superresearch-pipeline.png" alt="Super Research Pipeline" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</div> -->
+{% include aligner.html images="feature-img/superresearch-pipeline.png" column=1 %}
 <br>
 
 <div align="center">
@@ -117,4 +118,5 @@ Super Research employs a structured graph-based reasoning approach to handle hig
   </div>
 
 </div>
+
 
