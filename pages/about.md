@@ -8,7 +8,7 @@ tags: [Page]
 
 ## Biography
 
-Hi, I am **Yubo Dong**, a Master's student at the College of Computer Science and Technology, **Zhejiang University** (2023–2026), where I am advised by Prof. Yi Yang. 
+Hi, I am **Yubo Dong**, a Master's student at the College of Computer Science and Technology, **Zhejiang University** (2023–2028), where I am advised by Prof. Yi Yang. 
 
 My research primarily focuses on advancing Large Language Models (LLMs), with a strong emphasis on Multi-Agent Systems, structured reasoning, and model efficiency. I am passionate about building AI systems that can collaborate, reason efficiently, and solve highly complex dependencies—ranging from autonomous agents in Minecraft to highly efficient video diffusion models and hierarchical token pruning.
 
@@ -37,7 +37,7 @@ My research primarily focuses on advancing Large Language Models (LLMs), with a 
 * **Structured Reasoning for LLMs: A Unified Framework for Efficiency and Explainability** **Yubo Dong**, Hehe Fan, Linchao Zhu, Yi Yang  
     *ICLR 2026 (Poster)*
 
-* **Hi-Lo Prune: Look at What You'll Lose before Pruning with Hierarchical Token Selection** Zixun Sun, **Yubo Dong**, Hehe Fan, Yi Yang  
+* **Hi-Lo Prune: Look at What You'll Lose before Pruning with Hierarchical Token Selection** **Yubo Dong**, Zixun Sun, Hehe Fan, Yi Yang  
     *CVPR 2026 Conference Submission*
 
 * **Enhancing Large Language Models through Structured Reasoning** **Yubo Dong**, Hehe Fan, Yi Yang  
