@@ -72,7 +72,7 @@ tags: [SuperResearch, LLM, Agent, Graph Reasoning, Benchmark]
 ---
 
 <h2 style="text-align:center;">Overview</h2>
-{% include aligner.html images="assets/img/feature-img/data_dist_01.png" column=1 %}
+{% include aligner.html images="feature-img/data_dist_01.png" column=1 %}
 
 While Large Language Models (LLMs) have demonstrated proficiency in Deep Research or Wide Search, their capacity to solve highly complex questions remains largely unexplored. We introduce **Super Research**, a task for complex autonomous research tasks that integrates:
 1. Structured decomposition into a research plan
@@ -92,7 +92,7 @@ Super Research employs a structured graph-based reasoning approach to handle hig
 * **Citation Health** (Dominance & Monopolization)
 
 
-{% include aligner.html images="assets/img/feature-img/superresearch-pipeline.png" column=1 %}
+{% include aligner.html images="feature-img/superresearch-pipeline.png" column=1 %}
 <br>
 
 <div align="center">
@@ -117,6 +117,7 @@ Super Research employs a structured graph-based reasoning approach to handle hig
   </div>
 
 </div>
+
 
 
 
