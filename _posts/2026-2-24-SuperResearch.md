@@ -53,7 +53,7 @@ tags: [SuperResearch, LLM, Agent, Graph Reasoning, Benchmark]
 </style>
 
 <p class="center-flex">
-    <a href='https://cnsdqd-dyb.github.io/SuperResearch/' class="highlight-btn" target="_blank">
+    <a href='https://cnsdqd-dyb.github.io/Super-Research-Benchmark/' class="highlight-btn" target="_blank">
       🌟 Visit the Official Project Website & Leaderboard
     </a>
 </p>
@@ -117,6 +117,7 @@ Super Research employs a structured graph-based reasoning approach to handle hig
   </div>
 
 </div>
+
 
 
 
