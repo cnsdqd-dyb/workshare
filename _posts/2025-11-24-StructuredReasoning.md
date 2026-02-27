@@ -96,7 +96,7 @@ Illustration of our three-stage pipeline for enhancing LLMs with Structured Reas
 ### 1. Efficiency
 We evaluate all models across six mathematics-focused benchmark datasets and three out-of-domain datasets (reading, legal, and massive multitask). Our structure-aware optimization methods consistently outperform other baselines for 1.5B models. Notably, MaxFlow with 4k training length achieves significant average improvement over GRPO and surpasses DeepScaleR-1.5B-Preview (trained with maximum 24k length and evaluated with 32k length). For 7B models, the LCS method performs excellently under 4k maximum length, while MaxFlow outperforms by a large margin across the entire length range.
 
-{% include aligner.html images="feature-img/teaser_a_1.png,structured-reasoning/teaser_a_2.png" column=2 %}
+{% include aligner.html images="feature-img/teaser_a_1.png,feature-img/teaser_a_2.png" column=2 %}
 
 ### 2. Stability
 Baseline DeepSeek-R1-Distill models exhibit significant temperature sensitivity, relying heavily on sampling diversity to achieve better performance as temperature increases from 0.1 to 0.9. In contrast, our MaxFlow method maintains consistent performance across all temperature settings, achieving the lowest variance (±0.53 on MATH500 and ±0.29 on OlympiadBench for the 1.5B model). This robustness indicates that structured reasoning frameworks produce inherently stable outputs without requiring specific sampling parameters.
@@ -117,7 +117,7 @@ For the IISR experiment, where we randomly inject *N* interference steps into an
 
 <h2 style="text-align:center;">Exploration</h2>
 
-{% include aligner.html images="feature-img/transformer_attention_smooth_gradient_15.png,structured-reasoning/transformer_attention_smooth_gradient.png" column=2 %}
+{% include aligner.html images="feature-img/transformer_attention_smooth_gradient_15.png,feature-img/transformer_attention_smooth_gradient.png" column=2 %}
 
 According to samples from 1.5B and 7B models with our step attention matrix thresholded at 0.1, we found that early layers (0~13) show a repeating broad-versus-local alternation, suggesting an early division of labor between aggregating multi-step context and performing local refinement. Beginning around layer 14, all subsequent layers mark a transition to a stable broad-span integration regime that more faithfully ranks step importance. 
 
@@ -138,3 +138,4 @@ The same qualitative pattern appears in both 1.5B and 7B models: **early oscilla
   </div>
 
 </div>
+
