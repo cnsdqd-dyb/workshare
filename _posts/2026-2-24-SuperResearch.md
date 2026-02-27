@@ -93,7 +93,7 @@ Super Research employs a structured graph-based reasoning approach to handle hig
 <!-- <div align="center">
     <img src="feature-img/superresearch-pipeline.png" alt="Super Research Pipeline" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 </div> -->
-{% include aligner.html images="feature-img/superresearch-pipeline.png" column=1 %}
+{% include aligner.html images="assets/img/feature-img/superresearch-pipeline.png" column=1 %}
 <br>
 
 <div align="center">
@@ -118,5 +118,6 @@ Super Research employs a structured graph-based reasoning approach to handle hig
   </div>
 
 </div>
+
 
 
