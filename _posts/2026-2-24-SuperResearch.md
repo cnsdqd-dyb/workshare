@@ -16,7 +16,6 @@ tags: [SuperResearch, LLM, Agent, Graph Reasoning, Benchmark]
     <a href='#'>Yue Zhang</a><sup>1</sup>, 
     <a href='#'>Liang Zhang</a><sup>2</sup>, 
     <a href='#'>Siyuan Zhao</a><sup>2</sup>, 
-    <a href='#'>Yi Lin</a><sup>2, ✉</sup>, 
     <a href='#'>Hehe Fan</a><sup>1, ✉</sup>
 </div>
 <div align="center" style="font-size: larger;">
@@ -117,6 +116,7 @@ Super Research employs a structured graph-based reasoning approach to handle hig
   </div>
 
 </div>
+
 
 
 
