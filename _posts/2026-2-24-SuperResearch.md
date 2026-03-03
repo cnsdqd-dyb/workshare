@@ -108,7 +108,7 @@ Super Research employs a structured graph-based reasoning approach to handle hig
     <pre style="background: transparent; border: none;">
 @article{superresearch2026,
   title={Super Research: Answering Highly Complex Questions with Large Language Models though Super Deep and Super Wide Research},
-  author={Yubo Dong, Nianhao You, Yuxuan Hou, Zixun Sun, Yue Zhang, Liang Zhang, Siyuan Zhao, Yi Lin, Hehe Fan},
+  author={Yubo Dong, Nianhao You, Yuxuan Hou, Zixun Sun, Yue Zhang, Liang Zhang, Siyuan Zhao, Hehe Fan},
   journal={ArXiv},
   year={2026}
 }
@@ -116,6 +116,7 @@ Super Research employs a structured graph-based reasoning approach to handle hig
   </div>
 
 </div>
+
 
 
 
