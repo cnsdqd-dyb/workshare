@@ -21,7 +21,7 @@ jobs:
         run: |
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          ${{ matrix.docker-image }}:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+          ${{ matrix.docker-image }}:latest /bin/bash -c "chmod -R 777 /srv/jekyll && bundle install && bundle exec jekyll build --future"
 
       - name: Install packages
         continue-on-error: true
