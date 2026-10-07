@@ -7,12 +7,7 @@ thumbnail: assets/img/VillagerAgent/VillagerBench.png
 author: Yubo Dong
 tags: [VillagerAgent, Multi-Agent, ]
 ---
-<div align="center" style="font-size: larger;">
-    <a href='mailto:22321287@zju.edu.cn'>Yubo Dong</a><sup>1</sup>, <a href='mailto:xukunzhu@example.com'>Xukun Zhu</a><sup>2</sup>, <a href='mailto:zhengzhepan@example.com'>Zhengzhe Pan</a><sup>3</sup>, <a href='mailto:linchaozhu@example.com'>Linchao Zhu</a><sup>4</sup>, <a href='mailto:yyang@example.com'>Yi Yang</a><sup>5</sup>
-</div>
-<div align="center" style="font-size: larger;">
-    <sup>1</sup>ReLER Lab, CCAI, Zhejiang University
-</div>
+<div align="center">Yubo Dong, Xukun Zhu, Zhengzhe Pan, Linchao Zhu, Yi Yang<br>ReLER Lab, Zhejiang University</div>
 <br>
 
 <style>
@@ -30,10 +25,10 @@ tags: [VillagerAgent, Multi-Agent, ]
 </style>
 
 <p class="center-flex">
-    <a href='https://arxiv.org/'>
+    <a href='https://arxiv.org/abs/2406.05720'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=for-the-badge&logo=arXiv&logoColor=green' alt='Paper PDF'>
     </a>
-    <a href='https://github.com/cnsdqd-dyb/VillagerAgent/tree/main'>
+    <a href='https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework'>
       <img src='https://img.shields.io/badge/Code-Repository-yellow?style=for-the-badge&logo=GitHub' alt='Code Repository'>
     </a>
 </p>
@@ -94,15 +89,13 @@ Our empirical evaluation on VillagerBench demonstrates that VillagerAgent outper
   <div style="margin:auto; width:90%; padding:10px;">
     <!-- BibTeX entry -->
     <pre>
-@article{Dong2024,
+@misc{dong2024villageragent,
   title={VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft},
-  author={Yubo Dong, Xukun Zhu, Zhengzhe Pan, Linchao Zhu, Yi Yang},
-  journal={Journal Name},
-  volume={xx},
-  number={yy},
-  pages={zz-aa},
+  author={Yubo Dong and Xukun Zhu and Zhengzhe Pan and Linchao Zhu and Yi Yang},
   year={2024},
-  publisher={Publisher}
+  eprint={2406.05720},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2406.05720}
 }
     </pre>
   </div>

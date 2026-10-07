@@ -1,10 +1,10 @@
 # SITE CONFIGURATION
-baseurl: "/"
-url: "/VillagerAgent.github.io"
+baseurl: "/workshare"
+url: "https://cnsdqd-dyb.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: WorkShare                                    # site's title
-description: "Yubo Dong's projects"      # used by search engines
+description: "Yubo Dong's research on structured reasoning, autonomous research, and multi-agent collaboration."      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 

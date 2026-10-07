@@ -5,7 +5,7 @@ hide_title: false
 feature-img: assets/img/feature-img/pipeline.png
 thumbnail: assets/img/feature-img/pipeline.png
 author: Yubo Dong
-tags: [Structured Reasoning, LLMs, Graph Reasoning, Reinforcement Learning, ICML 2026]
+tags: [Structured Reasoning, LLMs, Graph Reasoning, Reinforcement Learning, ICLR 2026]
 ---
 
 <div align="center" style="font-size: larger;">
@@ -48,19 +48,21 @@ tags: [Structured Reasoning, LLMs, Graph Reasoning, Reinforcement Learning, ICML
 </style>
 
 <p class="center-flex">
-    <a href='https://cnsdqd-dyb.github.io/structured-reasoning/' class="highlight-btn" target="_blank">
+    <a href='https://cnsdqd-dyb.github.io/Enhancing-Large-Language-Models-through-Structured-Reasoning/' class="highlight-btn" target="_blank">
       🌟 Visit the Official Project Website & Analyzer
     </a>
 </p>
 
 <p class="center-flex">
-    <a href='https://arxiv.org/'>
+    <a href='https://arxiv.org/abs/2506.20241'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=for-the-badge&logo=arXiv&logoColor=green' alt='Paper PDF'>
     </a>
-    <a href='#'>
+    <a href='https://github.com/cnsdqd-dyb/Enhancing-Large-Language-Models-through-Structured-Reasoning'>
       <img src='https://img.shields.io/badge/Code-Repository-yellow?style=for-the-badge&logo=GitHub' alt='Code Repository'>
     </a>
 </p>
+
+<p class="center-flex"><a href="https://huggingface.co/datasets/FreeFrank/Structured-Reasoning">Public dataset · 516 examples ↗</a> · <a href="https://github.com/cnsdqd-dyb/Enhancing-Large-Language-Models-through-Structured-Reasoning/blob/main/ROADMAP.md">Open-source roadmap ↗</a></p>
 
 > <span style="color: #3498db; font-weight: bold;">Structured Reasoning</span> aims at enhancing the reasoning capabilities of LLMs from the step level. By treating a reasoning process as a **directed acyclic graph**, we introduce <span style="color: #e74c3c;">MaxFlow</span> and <span style="color: #e74c3c;">LCS</span> algorithms to construct and optimize sparse reasoning graphs, consistently outperforming standard GRPO across varying context lengths with remarkable efficiency and stability.
 
@@ -131,7 +133,7 @@ The same qualitative pattern appears in both 1.5B and 7B models: **early oscilla
 @inproceedings{dong2026structured,
   title={Structured Reasoning for LLMs: A Unified Framework for Efficiency and Explainability},
   author={Yubo Dong and Hehe Fan and Linchao Zhu and Yi Yang},
-  booktitle={International Conference on Machine Learning (ICML)},
+  booktitle={International Conference on Learning Representations (ICLR)},
   year={2026}
 }
     </pre>

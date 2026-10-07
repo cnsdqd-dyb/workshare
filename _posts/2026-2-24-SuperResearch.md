@@ -57,14 +57,7 @@ tags: [SuperResearch, LLM, Agent, Graph Reasoning, Benchmark]
     </a>
 </p>
 
-<p class="center-flex">
-    <a href='https://arxiv.org/'>
-      <img src='https://img.shields.io/badge/Paper-PDF-green?style=for-the-badge&logo=arXiv&logoColor=green' alt='Paper PDF'>
-    </a>
-    <a href='#'>
-      <img src='https://img.shields.io/badge/Code-Repository-yellow?style=for-the-badge&logo=GitHub' alt='Code Repository'>
-    </a>
-</p>
+<p class="center-flex"><a href="https://github.com/cnsdqd-dyb/Super-Research-Benchmark/">Project repository ↗</a></p>
 
 > <span style="color: #3498db; font-weight: bold;">Super Research</span> introduces a new benchmark for evaluating LLMs on highly complex questions requiring long-horizon planning, massive evidence gathering, and synthesis across heterogeneous sources. It evaluates systems on <span style="color: #e74c3c;">Super Deep Investigation</span> and <span style="color: #e74c3c;">Super Wide Retrieval</span>.
 
